@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "name": "Travis Levine",
+      "email": "travis@levine.co.nz",
+      "id": 2
+    },
+    {
+      "name": "Rhys",
+      "email": "Rhys@downard.com",
+      "id": 3
+    }
+  ]
+}
